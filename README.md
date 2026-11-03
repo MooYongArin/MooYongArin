@@ -1,7 +1,5 @@
 # Arin Ariyata | Software Developer
 
-Currently interning at **Cleverse**
-
 ---
 
 ## Contact
